@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/relay-mode-matching-interface-explainer/
 
+Repository: https://github.com/mizcausevic-dev/relay-mode-matching-interface-explainer
+
 ## What this is
 
 An interactive anatomy plate for Relay Mode-Matching Interface. Play, scrub, or jump the five stages. The same frame always draws the same picture.
